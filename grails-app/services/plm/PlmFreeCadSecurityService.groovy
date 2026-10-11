@@ -74,7 +74,7 @@ class PlmFreeCadSecurityService {
                 break
         }
         return plmDoc.userCreated.id == user.id
-        This does not work. It will need to be 
+        This does not work. It will need to be
         ------ End debug change----------*/
         return true
     }
